@@ -5,7 +5,8 @@ I planned to work as a security engineer at the end of my studies and I will wor
 
 I speak french, FSL and english
 
-⚡ Fun fact: - I'm a volunteer at PolyJapan
+⚡ Fun fact: 
+- I'm a volunteer at PolyJapan
 - I'm a CODA and that's why I FSL is one of my mother tongue.
 <!--
 **KevinFarine/KevinFarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
