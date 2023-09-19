@@ -14,7 +14,7 @@ I'm Kevin Farine, currently studying at HEIG-VD in security department and as th
 
 ⚡ Fun fact: 
 - I'm a volunteer at PolyJapan from 2012
-- I'm a CODA and that's why I FSL is one of my mother tongue.
+- I'm a CODA and that's why LSF is one of my mother tongue.
 <!--
 **KevinFarine/KevinFarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
