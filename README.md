@@ -3,7 +3,7 @@ I'm Kevin Farine, currently studying at HEIG-VD in security department and as th
 
 🧏‍♂️ Languages:
 - french
-- FSL
+- LSF
 - english
 
 🏀 Hobbies:
