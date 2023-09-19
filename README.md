@@ -3,7 +3,16 @@ I'm Kevin Farine, currently studying at HEIG-VD and working at EPSIC.
 
 I planned to work as a security engineer at the end of my studies and I will work hard for that.
 
-I speak french, FSL and english.
+🧏‍♂️ Languages:
+- french
+- FSL
+- english
+
+🏀 Hobbies:
+- Basketball
+- Walking
+- Video games (mostly indies)
+- Speedrunning
 
 ⚡ Fun fact: 
 - I'm a volunteer at PolyJapan from 2012
