@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Kevin Farine, currently studying at HEIG-VD and working at EPSIC.
-
-I planned to work as a security engineer at the end of my studies and I will work hard for that.
+I'm Kevin Farine, currently studying at HEIG-VD in security department and as the same time, working at EPSIC as system administrator.
 
 🧏‍♂️ Languages:
 - french
