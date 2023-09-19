@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Kevin Farine, currently studying at HEIG-VD and working at EPSIC.
+I planned to work as a security engineer at the end of my studies and I will work hard for that.
+
+I speak french, LSF and english
 
 <!--
 **KevinFarine/KevinFarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
